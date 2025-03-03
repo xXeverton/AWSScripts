@@ -14,7 +14,7 @@ sudo yum update -y
 ```
 - Atualiza todos os pacotes do sistema automaticamente.
 
-### 3️⃣ Instalar Apache (httpd) e Git
+### 3️⃣ Instalar Apache (httpd) e Git 
 ```bash
 sudo yum install -y httpd git
 ```
